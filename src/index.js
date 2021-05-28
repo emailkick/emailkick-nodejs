@@ -29,4 +29,4 @@ class Emailkick {
     return mailBody;
   }
 }
-export default Emailkick;
+modules.export = Emailkick;
